@@ -18,6 +18,14 @@ City Services for QB-Core Framework
 - qb-target integration, this is optional
 - PolyZone and qb-core DrawText integration, this is optional
 
+## Screenshots
+![image](https://github.com/MattiVboiii/qb-cityhall-edit/assets/57048210/d84e31ea-201d-4d28-a41c-78db7703a6f3)
+![image](https://github.com/MattiVboiii/qb-cityhall-edit/assets/57048210/cb3bc540-3fd8-4d51-8965-97cd17723336)
+![image](https://github.com/MattiVboiii/qb-cityhall-edit/assets/57048210/1a9786c9-3f5a-4348-b1ad-028cfcb9f057)
+![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
+![Driving School DrawText Interaction](https://i.imgur.com/32BPp8f.png)
+![Driving School QB-Target Interaction](https://i.imgur.com/P7jWBsV.png)
+
 ## Installation
 ### Manual
 - Download the script and put it in the `[qb]` directory.
@@ -28,18 +36,6 @@ ensure qb-target # Optional
 ensure qb-phone
 ensure qb-cityhall
 ```
-
-## Screenshots
-![City Services](https://i.imgur.com/l6ZRlXP.png)
-![Request Birth Certificate](https://i.imgur.com/zJRiuDI.png)
-![Request Driver License](https://i.imgur.com/2scxBew.png)
-![Request Weapon License](https://i.imgur.com/pSudfVl.png)
-![Apply For a Job](https://i.imgur.com/26Kd0FU.png)
-![Cityhall DrawText Interaction](https://i.imgur.com/Uxh2GZC.png)
-![Cityhall QB-Target Interaction](https://i.imgur.com/K54cMLt.png)
-![Driving School Sending And Receiving Mail](https://i.imgur.com/iJof4jI.png)
-![Driving School DrawText Interaction](https://i.imgur.com/32BPp8f.png)
-![Driving School QB-Target Interaction](https://i.imgur.com/P7jWBsV.png)
 
 # License
 
